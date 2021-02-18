@@ -1,11 +1,12 @@
-**Cybersecurity Scientific Paper**
+**Cybersecurity Scientific Paper (EN)**
 
 ## Computer Security: Risk Management Methodologies in Information Technology Systems
 
 This paper aims to demonstrate in a practical and applicable way risk management methodologies and how their processes are useful for an organization to be able to estimate, treat
 and evaluate risks that may affect its business.
 
-**Artigo Científico de Cybersegurança**
+
+**Artigo Científico de Cybersegurança (PT)**
 
 ## Segurança Computacional: Metodologias de Gerenciamento de Riscos em Sistemas de Tecnologia da Informação
 
