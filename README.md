@@ -1,7 +1,6 @@
 ## Computer Security: Risk Management Methodologies in Information Technology Systems
 
-This paper aims to demonstrate in a practical and applicable way risk management methodologies and how their processes are useful for an organization to be able to estimate, treat
-and evaluate risks that may affect its business.
+This article aims to demonstrate risk management methodologies in a practical and applicable way, and how its processes are useful for an organization to be able to estimate and evaluate treats and risks that may affect its business. 
 
 [Cybersecurity Scientific Paper (EN)](https://github.com/deborafaria01/cybersecurity_scientific_paper/blob/main/Computer%20Security_Risk%20Management%20Methodologies%20in%20Information%20Technology%20Systems.pdf)
 
